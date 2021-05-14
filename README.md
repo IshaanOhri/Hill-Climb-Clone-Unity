@@ -24,8 +24,6 @@
 
 <p  align="center"><img width="1000" src = "https://raw.githubusercontent.com/IshaanOhri/Hill-Climb-Clone-Unity/main/Ss.png"></p>
 
-<br>
-
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
