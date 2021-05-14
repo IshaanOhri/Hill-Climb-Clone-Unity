@@ -22,7 +22,7 @@
 
 <br>
 
-<p  align="center"><img width="1000" src = "https://github.com/IshaanOhri/Hill-Climb-Clone-Unity/blob/master/Ss.png"></p>
+<p  align="center"><img width="1000" src = "https://raw.githubusercontent.com/IshaanOhri/Hill-Climb-Clone-Unity/main/Ss.png"></p>
 
 <br>
 
