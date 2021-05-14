@@ -11,7 +11,7 @@
   <br>
   ISHAAN OHRI 18BCE0265
   <br>
-  Faculty: Natarajan P
+  Faculty: Dr. Natarajan P
 </p>
 
 <div align="center">
@@ -21,6 +21,8 @@
 </div>
 
 <br>
+
+<p  align="center"><img width="1000" src = "https://raw.githubusercontent.com/IshaanOhri/Hill-Climb-Clone-Unity/main/Ss.png"></p>
 
 ## Contributing
 
