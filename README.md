@@ -32,10 +32,6 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## License
-
-The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Hill-Climb-Clone-Unity/blob/master/LICENSE) for more information.
-
 ## Author
 
 -   [Ishaan Ohri](https://github.com/IshaanOhri)
